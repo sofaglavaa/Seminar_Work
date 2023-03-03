@@ -76,3 +76,5 @@ Git - это одна из реализаций распределённых с�
 + Первый
 + Второй
 + Третий
+
+![Pig](https://kartinkof.club/uploads/posts/2022-04/1649961705_27-kartinkof-club-p-kartinki-porosyat-prikolnie-27.jpg)
