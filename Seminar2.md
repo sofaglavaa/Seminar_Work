@@ -76,3 +76,6 @@ Git - это одна из реализаций распределённых с�
 + Первый
 + Второй
 + Третий
+
+# HomeWork Lesson three
+![Новороссийск](https://sun9-59.userapi.com/impf/c840424/v840424415/62977/6ldk4pYE4Y8.jpg?size=1242x820&quality=96&sign=70e6702b25bcb6425c7fdc1e497afb28&c_uniq_tag=5EhmjUzhPRz0niVjNgZG4dGnZyR94vXYGQ22WHTwmh0&type=album)
