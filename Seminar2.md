@@ -76,3 +76,6 @@ Git - это одна из реализаций распределённых с�
 + Первый
 + Второй
 + Третий
+
+
+![Мой тенген](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/f/f1/Tengen_reveals_he%27s_against_keeping_Nezuko_alive.png/revision/latest?cb=20190831164937)
