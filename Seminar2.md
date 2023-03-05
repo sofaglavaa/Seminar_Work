@@ -76,3 +76,5 @@ Git - это одна из реализаций распределённых с�
 + Первый
 + Второй
 + Третий
+
+![picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4_dAAUaORsO_kNeObFK68s4KYnNHiNAWlyw&usqp=CAU)
