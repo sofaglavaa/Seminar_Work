@@ -76,3 +76,6 @@ Git - это одна из реализаций распределённых с�
 + Первый
 + Второй
 + Третий
+
+## Добавление картинок (часть 2)
+![Робосек](https://sun9-31.userapi.com/impg/TYaIrox2HKrINabE5hLddsja24gCVHmKFJjISg/zQi_Aaman7k.jpg?size=345x604&quality=95&sign=d5cf740b9a26a1d1db04cf9727841bc3&c_uniq_tag=sFKtJQ3hymiqarZzmhsHneeUwkc7g50AOWIZ9_w6zIM&type=album)
