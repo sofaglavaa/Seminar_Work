@@ -76,3 +76,5 @@ Git - это одна из реализаций распределённых с�
 + Первый
 + Второй
 + Третий
+
+![Водопад](https://fikiwiki.com/uploads/posts/2022-02/1645000472_12-fikiwiki-com-p-kartinki-krasivie-na-telefon-zhivie-oboi-13.jpg)
